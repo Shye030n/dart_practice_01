@@ -12,7 +12,7 @@ class Spacecraft {
   //2)생성자
   //1. 기본생성자
   //멤버변수에 값을 할당하는 문법. syntactic sugar을 사용한 생성자
-  //syntactic sugar : 코드를 짧고 가독성 좋게 많든 문법
+  //syntactic sugar : 코드를 짧고 가독성 좋게 만든 문법
   Spacecraft(this.name, this.launchDate) { //전달받은 순서대로 값을 자동으로 필드에 할당
     // Initialization code(여기에 초기화 코드 작성. 변수,필드,상태 등을 처음 세팅하는 위치)
   }

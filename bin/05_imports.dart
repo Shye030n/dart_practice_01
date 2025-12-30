@@ -10,6 +10,6 @@ import 'dart:math';
 import 'package:test/test.dart'; 
 
 //3. 내 프로젝트 파일, Importing files
-import './01_variables.dart'; 
+import './02_variables.dart'; 
 // ./ 현재 디렉토리
 // ../ 부모 디렉토리
